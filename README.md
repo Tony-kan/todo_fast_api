@@ -2,10 +2,10 @@
 
 ## Tech STACK
 
-# python
+- python
 
-# FastAPi
+- FastAPi
 
-# MongoDB
+- MongoDB
 
 ## Features
